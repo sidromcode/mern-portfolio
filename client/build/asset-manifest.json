@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfd37b26.css",
+    "main.js": "/static/js/main.c474ccc3.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/Sivaram.pdf": "/static/media/Sivaram.a133208c80a33a656845.pdf",
+    "index.html": "/index.html",
+    "main.dfd37b26.css.map": "/static/css/main.dfd37b26.css.map",
+    "main.c474ccc3.js.map": "/static/js/main.c474ccc3.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd37b26.css",
+    "static/js/main.c474ccc3.js"
+  ]
+}
